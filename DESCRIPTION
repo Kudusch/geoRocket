@@ -1,0 +1,14 @@
+Package: geoRocket
+Type: Package
+Title: Interface with the Rocket-API
+Version: 0.1
+Author: Tim Schatto-Eckrodt
+Maintainer: Tim Schatto-Eckrodt <tim.schatto-eckrodt@posteo.de>
+Description: The packages connects to a Rocket-API server to list and download sources.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    jsonlite,
+    geojsonR
+RoxygenNote: 6.1.0
